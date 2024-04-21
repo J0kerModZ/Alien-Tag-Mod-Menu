@@ -5,7 +5,7 @@ TO LOAD:
 2) When you get into the game Open the Inject.Bat file (this is open source so you can see whats in it)
 3) Enjoy
 
-How to use
+How to use:
 download SharpMonoInjector from https://github.com/warbler/SharpMonoInjector/releases/ 
 Download the CMD version
 Once thats done put the menu dll and sharpmonoinjector files in one folder
