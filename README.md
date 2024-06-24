@@ -10,7 +10,7 @@ This is using melon loader and a older version of the game
 
 You can now play with quest players
 
-If it gets patched LMK in the discord server!
+MENU IS OUTDATAED AND NO LONGER IS SUPPORTED THANKS FOR MODDING! <3
 ================================================================================================================
 
 WEBSITE: https://j0kermodz.lol/
